@@ -131,7 +131,7 @@ print("Data ready >>> \n \n")
 
 #conn.close()
 
-#n.b. most function names are quite self-explanatory and are used to execute fairly simple queries that clearly relate to the name
+#Most function names are quite self-explanatory and are used to execute fairly simple queries that relate to the function name
 
 def all_flight_details(conn):
     all_flights_details_query = """
@@ -708,7 +708,7 @@ while True:
     
 #-----------------------------------------------------------------------#
 
-#SQL Query Planning Documented in the Section Below Prior to Writing Python Functionss
+#SQL Query Planning Documented in the Section Below Prior to Writing Python Functions
         
 #Query to view all flight information
 '''
